@@ -22,7 +22,7 @@ While my chart choice emphasises the wellbeing change of each individual, it doe
 
 ## Tools
 
-I created this visualisation using R (the R output in the plots folder) and used Figma for the text and final layout.
+I created this visualisation using R (the R output is in the plots folder) and used Figma for the text and final layout.
 
 ## License
 
