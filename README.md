@@ -6,23 +6,30 @@ For my submission, I focused on visualising how participants' wellbeing changed 
 
 <img src = "final_vis/noise_solution_final_vis_low_res.png" width="1000">
 
+Low and high resolution versions of this visualisation are in the [final_vis](/final_vis) folder.
+
 ## Design choices
 
 For this project, I was inspired by the music theme to visualise the data in the shape of an old-school music player ring. Each point and line maps onto a set of Noise Solution sessions (and the corresponding participant), which helps emphasise the impact of the programme on individual people.
 
 Noise Solution's branding also played a large role in my design. In addition to some of Noise Solution's brand colours (purple, near-black, light grey, and white), I took inspiration from the photographs on their [website](https://www.noisesolution.org/), many of which have bright blues, teals, pinks, and oranges from coloured lights. Since I don't have a license for Noise Solution's brand font, [Roc Grotesk](https://fonts.adobe.com/fonts/roc-grotesk), I used a similar font with an Open Font License, [DM Sans](https://fonts.google.com/specimen/DM+Sans).
 
+As part of my design process, I created a mood board for inspiration:
+
+<img src = "process_images/noise_solution_mood_board.png" width="750">
+
+
 The title references a music concept - matching a beat or rhythm - that also emphasises Noise Solution's mission: by choosing to focus on mental wellbeing, they help their participants become more optimistic (or upbeat). 
 
 ## Possible next steps
 
-One of Noise Solution's requests that I didn't have time to fulfill was to make the visualisation interactive. There are some options for this approach in R (e.g., {plotly} and {shiny}), and I'm also keen to learn Javascript so that I can develop interactive visualisations for the web.
+One of Noise Solution's requests that I didn't have time to fulfill was to make the visualisation interactive. There are some options for this approach in R (e.g., {plotly} and {shiny}), and I'm also keen to learn Javascript so that I can develop custom interactive visualisations for the web.
 
 While my chart choice emphasises the wellbeing change of each individual, it doesn't accurately show the distribution of changes across all participants. As such, this visualisation would be complemented by an additional chart type that shows the distribution of wellbeing changes.
 
 ## Tools
 
-I created this visualisation using R (the R output is in the plots folder) and used Figma for the text and final layout.
+I created this visualisation using R (the R output is in the [plots](plots) folder) and used Figma for the text and final layout.
 
 ## License
 
